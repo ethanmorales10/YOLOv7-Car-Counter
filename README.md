@@ -1,6 +1,7 @@
 # YOLOv7-Car-Counter
 ## Summary
 Computer Vision model that is able to detect vehicles within a given image. Used YOLOv7 (You Only Look Once), a real-time object detector capable of identifying objects and labeling them.
+
 ![Car Counter Image](https://github.com/ethanmorales10/assets/blob/main/carcount.jpg)
 ## Resources
 - Python
